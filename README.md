@@ -40,7 +40,7 @@ i broke my screen lmao
 * os (pre-built package)
 
 ## Bugs
-I can bet there are a LOT of them, so please contact me on my [discord server](https://discord.gg/gEF2sN4Yc3)
+I can bet there are a LOT of them, so please if you find any contact me on my [discord server](https://discord.gg/gEF2sN4Yc3)
 
 ## Usage
 Absolutly free copy and usage (i'm being kind)
