@@ -15,21 +15,19 @@ i broke my screen lmao
 <summary>Guide for dummies</summary>
 
 1. Install python and add it to PATH
-2. Install your ADB driver (google search: model name + adb)
-3. Install the package
-4. Type cmd in the path bar
-5. Type this in `pip install -r requirements.txt`
-6. Then type this `main.py`
+2. Install the package
+3. Type cmd in the path bar
+4. Type this in `pip install -r requirements.txt`
+5. Then type this `main.py`
 
 </details>
 
 <details>
 <summary>Guide for advanced pepole</summary>
 
-1. Install your ADB driver (google search: your phone model name + "adb")
-2. Install the package
-3. Install the requirements using `pip install -r requirements.txt`
-4. Execute `main.py`
+1. Install the package
+2. Install the requirements using `pip install -r requirements.txt`
+3. Execute `main.py`
 
 </details>
 
