@@ -1,5 +1,5 @@
 # ADBScreen
-Python-based tool to use your Android phone screen with [UniversalADB](https://en.wikipedia.org/wiki/Android_Debug_Bridge)
+Python-based tool to use your Android phone screen with [ADB](https://en.wikipedia.org/wiki/Android_Debug_Bridge)
 
 ## Why?
 i broke my screen lmao
