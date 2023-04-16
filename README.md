@@ -41,4 +41,4 @@ i broke my screen lmao
 I can bet there are a LOT of them, so please if you find any contact me on my [discord server](https://discord.gg/gEF2sN4Yc3)
 
 ## Usage
-Absolutly free copy and usage (i'm being kind)
+Absolutly free copy and usage
