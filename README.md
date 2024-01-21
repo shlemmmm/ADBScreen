@@ -1,9 +1,6 @@
 # ADBScreen
 Python-based tool to use your Android phone screen with [ADB](https://en.wikipedia.org/wiki/Android_Debug_Bridge)
 
-## Why?
-i broke my screen lmao
-
 ## Supported
 * All android devices who have ADB enabled 
 * Any PC with almost any OS with Python
