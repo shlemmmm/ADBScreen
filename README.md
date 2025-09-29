@@ -2,13 +2,12 @@
 Python-based tool to use your Android phone screen with [ADB](https://en.wikipedia.org/wiki/Android_Debug_Bridge)
 
 ## Supported
-* All android devices who have ADB enabled 
-* Any PC with almost any OS with Python
-* Python version: 3.8
+* All android devices that have ADB enabled 
+* Theoretically, any PC with any OS 
+* Tested python version: 3.8
 
 
 ## Guide
-<details>
 
 1. Install python and add it to PATH
 2. Install the zip with the source code
@@ -16,13 +15,11 @@ Python-based tool to use your Android phone screen with [ADB](https://en.wikiped
 4. Type this in `pip install -r requirements.txt`
 5. Then type this `main.py`
 
-</details>
-
 ## Modules used
 * [PPADB (Pure Python ADB)](https://pypi.org/project/pure-python-adb/)
 * [numpy](https://pypi.org/project/numpy/)
 * [OpenCV2](https://pypi.org/project/opencv-python/)
-* os (pre-built package)
+* os
 
 ## Bugs
 No bugs known for the latest commit :)
